@@ -1,0 +1,95 @@
+body{
+  background: white;
+  background-size: 400% 400%;
+  -webkit-animation: gradientBackground 10s ease infinite;
+  animation: gradientBackground 10s ease infinite;
+}
+
+.atas{
+  background: green;
+  width:100%; 
+  height:10%;
+}
+
+.btnmenu{
+	float:left; 
+	padding:17px 10px 0; 
+	width:10%;
+}
+
+.divRSS{
+	float:left; 
+	width:80%; 
+	text-align:center; 
+	padding:15px 0 0;
+}
+
+label{
+  display: inline-block;
+  font-size: 40;
+  font-weight: 600;
+  margin-top: -10px;
+  text-align : center;
+  color: white;
+}
+
+.login{
+	float:right; 
+	width:auto; 
+	text-align:center; 
+	padding:17px 0 0;
+	padding-right:10px;
+}
+
+.displaybody{
+	color: orange;
+	background: orange;
+	width: 70%;
+	height: auto;
+	margin:30 auto;
+}
+
+.slidebg{ 
+	float: center;
+	width:90%; 
+	height:50%;
+	margin:auto;
+}
+
+.gambar{
+	margin: auto;
+	height:100%;
+	padding:10 10 10;
+}
+
+.bodytabel {
+	float:center; 
+	width:70%; 
+	height:auto;
+	margin:auto; 
+	padding:10 0 10; 
+}
+
+.tabelisi{
+	float:center; 
+	width:100%; 
+	height:auto;
+	margin:auto; 
+	padding-top:10;
+}
+
+label2{
+  display: inline-block;
+  font-size: 27;
+  font-weight: 600;
+  text-align : center;
+  color:#000057;
+}
+
+linktabel{
+	float:right;
+	display: inline-block;
+	font-size: 12;
+	margin-top: 1rem;
+	text-align : center;
+}
